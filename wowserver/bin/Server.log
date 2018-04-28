@@ -1,0 +1,33 @@
+TrinityCore rev. unknown 1970-01-01 00:00:00 +0000 (Archived branch) (Unix, RelWithDebInfo, Static) (worldserver-daemon)
+<Ctrl-C> to stop.
+
+ ______                       __
+/\__  _\       __          __/\ \__
+\/_/\ \/ _ __ /\_\    ___ /\_\ \, _\  __  __
+   \ \ \/\`'__\/\ \ /' _ `\/\ \ \ \/ /\ \/\ \
+    \ \ \ \ \/ \ \ \/\ \/\ \ \ \ \ \_\ \ \_\ \
+     \ \_\ \_\  \ \_\ \_\ \_\ \_\ \__\\/`____ \
+      \/_/\/_/   \/_/\/_/\/_/\/_/\/__/ `/___/> \
+                                 C O R E  /\___/
+http://TrinityCore.org                    \/__/
+
+Using configuration file /home/w335m/etc/worldserver.conf.
+Using SSL version: OpenSSL 1.0.2g  1 Mar 2016 (library: OpenSSL 1.0.2g  1 Mar 2016)
+Using Boost version: 1.58.0
+Updating Auth database...
+>> Auth database is up-to-date! Containing 3 new and 33 archived updates.
+Updating Character database...
+>> Character database is up-to-date! Containing 1 new and 26 archived updates.
+Updating World database...
+>> World database is up-to-date! Containing 158 new and 3161 archived updates.
+Realm running as realm ID 2
+Using World DB: TDB 335.64
+Will clear `logs` table of entries older than 1209600 seconds every 10 minutes.
+Client cache version set to: 64
+Using DataDir ./
+WORLD: MMap data directory is: ./mmaps
+VMap support included. LineOfSight: 1, getHeight: 1, indoorCheck: 1
+VMap data directory is: ./vmaps
+Map file './maps/0004331.map' does not exist!
+Please place MAP-files (*.map) in the appropriate directory (./maps/), or correct the DataDir setting in your worldserver.conf file.
+Unable to load critical files - server shutting down !!!
